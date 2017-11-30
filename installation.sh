@@ -61,4 +61,5 @@
    60  systemctl restart nginx
    61  ls -li server/
    62  history 
+   63  clear 
 [root@labserver html]#
